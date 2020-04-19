@@ -1,19 +1,11 @@
 # index.html
 first web page for a website
-f
-gf
-vf
-vf
-b
+<!DOCTYPE html>
+<html>
+<body>
 
-fd
-f
+    <h2>This is page heading.</h2>
+    <p>This is my first <strong>paragraph text</strong>.</p>
 
-df
-gf
-d
-gdf
-d
-fdf
-
-df
+</body>
+</html>
